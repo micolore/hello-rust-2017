@@ -1,7 +1,8 @@
 fn main() {
 
   let mut s = String::from("b    s");
-
+    
+  
   let len = first_word(&s);
   
   s.clear();
