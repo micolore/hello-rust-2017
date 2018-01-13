@@ -1,0 +1,1 @@
+/usr/local/tools/git/rust_107/communicator/target/debug/libcommunicator.rlib: /usr/local/tools/git/rust_107/communicator/src/network/mod.rs /usr/local/tools/git/rust_107/communicator/src/client.rs /usr/local/tools/git/rust_107/communicator/src/lib.rs /usr/local/tools/git/rust_107/communicator/src/network/server.rs
