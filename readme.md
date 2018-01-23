@@ -8,10 +8,19 @@
 * demo
 * project
 
-+ 数据类型
++ 数据类型  
+   元组、  
+    集合
 + trait
 + silce
 
 1. 引用
 2. 借用
 3. 所有权
+
+```
+fn main(){
+      println!("hello rust") 
+}
+```  
+
